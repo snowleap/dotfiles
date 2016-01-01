@@ -13,9 +13,9 @@ rofi.hlbg: #A020F0
 rofi.hlfg: #ffffff
 rofi.bc: #151718
 rofi.eh: 2
-rofi.width: 50
-rofi.padding: 100
+rofi.width: 100
+rofi.padding: 300
 rofi.lines: 5
 rofi.line-margin: 5
 rofi.font: Monoscape 16
-rofi.opacity: 80
+rofi.opacity: 65
