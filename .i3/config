@@ -29,7 +29,7 @@ floating_modifier $mod
 
 # autostart programs
 exec_always feh --bg-scale ~/Pictures/wallpaper.jpg
-exec_always compton
+exec_always compton -f
 
 # start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
@@ -187,3 +187,8 @@ colors {
 # http://i3wm.org/docs/userguide.html#_changing_named_workspaces_moving_to_workspaces
 bindsym $mod+period workspace next
 bindsym $mod+comma workspace prev 
+
+# xmodmap ~/.Xmodmap &
+
+##  bindsym $MOD+SHIFT+x exec i3lock -i /mnt/data/images/1b3a047dd12ba1db51192a95781be456.jpg
+bindsym $MOD+SHIFT+x exec i3lock -c 000000
