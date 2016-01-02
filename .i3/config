@@ -190,5 +190,4 @@ bindsym $mod+comma workspace prev
 
 # xmodmap ~/.Xmodmap &
 
-##  bindsym $MOD+SHIFT+x exec i3lock -i /mnt/data/images/1b3a047dd12ba1db51192a95781be456.jpg
-bindsym $MOD+SHIFT+x exec i3lock -c 000000
+bindsym $MOD+SHIFT+x exec /home/snowleap/Scripts/lock.sh
