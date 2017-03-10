@@ -1,0 +1,28 @@
+2017/03/08-15:47:42.934 396 Reusing MANIFEST /home/snowleap/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/03/08-15:47:43.136 396 Current memtable full; waiting...
+2017/03/08-15:47:43.136 1313 Level-0 table #5: started
+2017/03/08-15:47:43.138 1313 Level-0 table #5: 597 bytes OK
+2017/03/08-15:47:43.141 1313 Delete type=0 #3
+2017/03/08-15:47:43.141 1313 Level-0 table #7: started
+2017/03/08-15:47:43.141 1313 Level-0 table #7: 0 bytes OK
+2017/03/08-15:47:43.143 1313 Delete type=0 #4
+2017/03/08-15:47:43.143 1313 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2017/03/08-15:48:23.561 1313 Level-0 table #9: started
+2017/03/08-15:48:23.706 1313 Level-0 table #9: 32178819 bytes OK
+2017/03/08-15:48:23.710 1313 Delete type=0 #6
+2017/03/08-15:48:23.713 1313 Compacting 1@1 + 1@2 files
+2017/03/08-15:48:23.906 1313 Generated table #10@1: 18 keys, 31947540 bytes
+2017/03/08-15:48:23.909 1313 Generated table #11@1: 10 keys, 115923 bytes
+2017/03/08-15:48:23.909 1313 Compacted 1@1 + 1@2 files => 32063463 bytes
+2017/03/08-15:48:23.912 1313 compacted to: files[ 0 0 2 0 0 0 0 ]
+2017/03/08-15:48:23.912 1313 Delete type=2 #9
+2017/03/08-15:48:23.915 1313 Delete type=2 #5
+2017/03/08-15:48:25.396 1313 Level-0 table #13: started
+2017/03/08-15:48:25.535 1313 Level-0 table #13: 31947572 bytes OK
+2017/03/08-15:48:25.538 1313 Delete type=0 #8
+2017/03/08-15:49:03.022 1313 Level-0 table #15: started
+2017/03/08-15:49:03.189 1313 Level-0 table #15: 31969367 bytes OK
+2017/03/08-15:49:03.191 1313 Delete type=0 #12
+2017/03/08-15:52:48.057 1313 Level-0 table #17: started
+2017/03/08-15:52:48.224 1313 Level-0 table #17: 31952603 bytes OK
+2017/03/08-15:52:48.227 1313 Delete type=0 #14

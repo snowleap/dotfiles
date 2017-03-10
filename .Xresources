@@ -1,0 +1,51 @@
+URxvt.font: xft:Droid Sans Mono:size=10
+URxvt.scrollBar: false
+URxvt.letterSpace: 0.5
+
+! special
+URxvt.foreground:   #c5c8c6
+URxvt.background:   #1d1f21
+URxvt.cursorColor:  #e3a557
+
+! black
+URxvt.color0:       #2e2b28
+URxvt.color8:       #413d37
+
+! red
+URxvt.color1:       #ccaf8b
+URxvt.color9:       #9b703b
+
+! green
+URxvt.color2:       #9b703b
+URxvt.color10:      #d6b892
+
+! yellow
+URxvt.color3:       #b28144
+URxvt.color11:      #f0c674
+
+! blue
+URxvt.color4:       #e3a557
+URxvt.color12:      #e3a557
+
+! magenta
+URxvt.color5:       #e3a557
+URxvt.color13:      #e3a557
+
+! cyan
+URxvt.color6:       #e3a557
+URxvt.color14:      #e3a557
+
+! white
+URxvt.color7:       #9b703b
+URxvt.color15:      #b28144
+URxvt.color130:	    #e3a557
+
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: argb:a21d1f21, #002b36, #000000
+rofi.color-normal: argb:0fdf6e3, #cf954f, argb:0eee8d5, argb:0586e75, #cf954f
+rofi.color-active: argb:0fdf6e3, #268bd2, argb:0eee8d5, #268bd2, #ffffff
+rofi.color-urgent: argb:0fdf6e3, #dc322f, argb:0eee8d5, #dc322f, #ffffff

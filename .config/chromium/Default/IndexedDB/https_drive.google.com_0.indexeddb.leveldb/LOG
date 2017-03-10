@@ -1,0 +1,38 @@
+2017/03/10-09:10:45.234 444 Reusing MANIFEST /home/snowleap/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/03/10-09:10:45.234 444 Recovering log #16
+2017/03/10-09:10:45.234 444 Reusing old log /home/snowleap/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000016.log 
+2017/03/10-09:10:46.000 444 Current memtable full; waiting...
+2017/03/10-09:10:46.000 2948 Level-0 table #20: started
+2017/03/10-09:10:46.002 2948 Level-0 table #20: 587 bytes OK
+2017/03/10-09:10:46.003 2948 Delete type=0 #16
+2017/03/10-09:10:46.003 2948 Compacting 4@0 + 0@1 files
+2017/03/10-09:10:46.005 2948 Level-0 table #22: started
+2017/03/10-09:10:46.005 2948 Level-0 table #22: 0 bytes OK
+2017/03/10-09:10:46.006 2948 Delete type=0 #19
+2017/03/10-09:10:46.291 2948 Generated table #23@0: 8 keys, 31952428 bytes
+2017/03/10-09:10:46.293 2948 Generated table #24@0: 11 keys, 4758 bytes
+2017/03/10-09:10:46.293 2948 Compacted 4@0 + 0@1 files => 31957186 bytes
+2017/03/10-09:10:46.294 2948 compacted to: files[ 0 2 2 0 0 0 0 ]
+2017/03/10-09:10:46.294 2948 Delete type=2 #20
+2017/03/10-09:10:46.294 2948 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2017/03/10-09:10:46.294 2948 Compacting 1@1 + 1@2 files
+2017/03/10-09:10:46.296 2948 Generated table #25@1: 15 keys, 116005 bytes
+2017/03/10-09:10:46.296 2948 Compacted 1@1 + 1@2 files => 116005 bytes
+2017/03/10-09:10:46.301 2948 compacted to: files[ 0 1 2 0 0 0 0 ]
+2017/03/10-09:10:46.301 2948 Delete type=2 #13
+2017/03/10-09:10:46.303 2948 Delete type=2 #17
+2017/03/10-09:10:46.305 2948 Delete type=2 #24
+2017/03/10-09:10:46.305 2948 Delete type=2 #11
+2017/03/10-09:10:46.305 2948 Delete type=2 #15
+2017/03/10-09:10:46.307 2948 Compacting 1@1 + 1@2 files
+2017/03/10-09:10:46.557 2948 Generated table #26@1: 22 keys, 31952698 bytes
+2017/03/10-09:10:46.557 2948 Compacted 1@1 + 1@2 files => 31952698 bytes
+2017/03/10-09:10:46.559 2948 compacted to: files[ 0 0 2 0 0 0 0 ]
+2017/03/10-09:10:46.559 2948 Delete type=2 #23
+2017/03/10-09:10:46.562 2948 Delete type=2 #10
+2017/03/10-09:11:39.420 2948 Level-0 table #28: started
+2017/03/10-09:11:39.559 2948 Level-0 table #28: 32474642 bytes OK
+2017/03/10-09:11:39.561 2948 Delete type=0 #21
+2017/03/10-09:11:42.361 2948 Level-0 table #30: started
+2017/03/10-09:11:42.498 2948 Level-0 table #30: 32243535 bytes OK
+2017/03/10-09:11:42.501 2948 Delete type=0 #27

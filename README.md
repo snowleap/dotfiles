@@ -1,18 +1,12 @@
 # dotfiles
-My dotfiles, to be used with the i3 window manager.
+My dotfiles for vim, i3, and X.
 
-things you will need to install to make things work with my configs(aside from the obvious stuff):
+Some of the things I have installed that you may want to install to get these files working correctly:
 
 i3wm, 
 compton, 
 rofi, 
-arc-theme, 
-arc firefox theme, 
-Font Awesome, 
 lxappearance, 
-ultra flat icons, 
-Simple-and-soft mouse cursor theme, 
-i3blocks, 
 scrot, 
 imagemagick, 
 i3lock.
