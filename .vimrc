@@ -52,6 +52,7 @@ set lazyredraw
 
 colorscheme corporation
 set wrap!
+nmap <c-s> :w<CR>:!publish<CR>
 
 " ---------------------- PLUGIN CONFIGURATION ----------------------
 " initiate Vundle
