@@ -3,7 +3,7 @@ URxvt.scrollBar: false
 URxvt.letterSpace: 0.5
 
 ! special
-URxvt.foreground:   #c5c8c6
+URxvt.foreground:   #d0d0a6
 URxvt.background:   #1d1f21
 URxvt.cursorColor:  #e3a557
 
