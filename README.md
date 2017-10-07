@@ -6,7 +6,6 @@ Some of the things I have installed that you may want to install to get these fi
 i3wm, 
 compton, 
 rofi, 
-lxappearance, 
 scrot, 
 imagemagick, 
 i3lock.
